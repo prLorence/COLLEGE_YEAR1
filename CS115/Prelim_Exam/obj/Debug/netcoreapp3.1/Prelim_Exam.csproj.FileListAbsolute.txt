@@ -1,0 +1,14 @@
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\bin\Debug\netcoreapp3.1\Prelim_Exam.exe
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\bin\Debug\netcoreapp3.1\Prelim_Exam.deps.json
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\bin\Debug\netcoreapp3.1\Prelim_Exam.runtimeconfig.json
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\bin\Debug\netcoreapp3.1\Prelim_Exam.runtimeconfig.dev.json
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\bin\Debug\netcoreapp3.1\Prelim_Exam.dll
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\bin\Debug\netcoreapp3.1\Prelim_Exam.pdb
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\obj\Debug\netcoreapp3.1\Prelim_Exam.csproj.AssemblyReference.cache
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\obj\Debug\netcoreapp3.1\Prelim_Exam.GeneratedMSBuildEditorConfig.editorconfig
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\obj\Debug\netcoreapp3.1\Prelim_Exam.AssemblyInfoInputs.cache
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\obj\Debug\netcoreapp3.1\Prelim_Exam.AssemblyInfo.cs
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\obj\Debug\netcoreapp3.1\Prelim_Exam.csproj.CoreCompileInputs.cache
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\obj\Debug\netcoreapp3.1\Prelim_Exam.dll
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\obj\Debug\netcoreapp3.1\Prelim_Exam.pdb
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam\obj\Debug\netcoreapp3.1\Prelim_Exam.genruntimeconfig.cache

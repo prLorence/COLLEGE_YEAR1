@@ -1,0 +1,14 @@
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\bin\Debug\netcoreapp3.1\Prelim_Exam(Switch).exe
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\bin\Debug\netcoreapp3.1\Prelim_Exam(Switch).deps.json
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\bin\Debug\netcoreapp3.1\Prelim_Exam(Switch).runtimeconfig.json
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\bin\Debug\netcoreapp3.1\Prelim_Exam(Switch).runtimeconfig.dev.json
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\bin\Debug\netcoreapp3.1\Prelim_Exam(Switch).dll
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\bin\Debug\netcoreapp3.1\Prelim_Exam(Switch).pdb
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\obj\Debug\netcoreapp3.1\Prelim_Exam(Switch).csproj.AssemblyReference.cache
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\obj\Debug\netcoreapp3.1\Prelim_Exam(Switch).GeneratedMSBuildEditorConfig.editorconfig
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\obj\Debug\netcoreapp3.1\Prelim_Exam(Switch).AssemblyInfoInputs.cache
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\obj\Debug\netcoreapp3.1\Prelim_Exam(Switch).AssemblyInfo.cs
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\obj\Debug\netcoreapp3.1\Prelim_Exam(Switch).csproj.CoreCompileInputs.cache
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\obj\Debug\netcoreapp3.1\Prelim_Exam(Switch).dll
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\obj\Debug\netcoreapp3.1\Prelim_Exam(Switch).pdb
+S:\COLLEGE_YEAR1\CS115\Prelim_Exam(Switch)\obj\Debug\netcoreapp3.1\Prelim_Exam(Switch).genruntimeconfig.cache

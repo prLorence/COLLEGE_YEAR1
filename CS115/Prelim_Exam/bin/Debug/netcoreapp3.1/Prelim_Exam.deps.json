@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Prelim_Exam/1.0.0": {
+        "runtime": {
+          "Prelim_Exam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prelim_Exam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
