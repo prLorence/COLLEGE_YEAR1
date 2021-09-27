@@ -18,13 +18,23 @@ html {
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
+  font-size: 16px;
+ 
+}
+
+i {
+  font-size: 2em;
+  margin-right: .5em;
+  margin-bottom: 1em;
 }
 
 p, a  {
   font-family: 'Roboto', sans-serif;
 }
 
-h1, h3 {
+
+
+h1, h2, h3 {
   font-family: Open Sans, sans-serif;
   font-weight: 800;
 }
@@ -38,9 +48,12 @@ a {
   color: var(--text-color);
 }
 
+nav {
+  grid-column: 3 / 3;
+}
+
 .container {
   width: 100%;
-  max-width: 1440px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -48,7 +61,9 @@ a {
 }
 
 .header {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 3em 2em 1.2em 2em;
 }
 
 .navbar {
@@ -59,6 +74,44 @@ a {
   place-items: center;
 }
 
+.logo {
+  font-size: 1.3rem;
+}
+
+.link {
+  margin-right: 1em;
+}
+
+.colored-container {
+  background-color: var(--accent-color);
+  margin: 0 5em 0 5em;
+  padding-bottom: 3em;
+}
+
+.desc-image {
+  width: 100%;
+  max-width: 400px;
+  min-width: 300px;
+  margin: 1em 3em 0 1em;
+}
+
+.profile-image {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.about-me {
+  display: flex;
+}
+
+.description {
+  margin: 3em 1em 1em 4em;
+}
+
+.tool-header {
+  margin-bottom: 3em;
+}
+
 .tools-container {
   display: flex;
   flex-direction: column;
@@ -66,7 +119,120 @@ a {
   align-items: center;
 }
 
+.tools-images {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  margin-bottom: 5em;
+}
+
+.react {
+  grid-area: 1 / 4 / 1 / 3;
+}
+
+.github {
+  grid-area: 1 / 6 / 1 / 5;
+}
+
+.git {
+  grid-area : 1 / 7;
+}
+
+.html {
+  grid-area: 2 / 2 / 2 / 2 ;
+}
+
+.javascript {
+  grid-area: 2/ 5 / 2 / 4;
+}
+
+.css {
+  grid-area: 2 / 7 / 2 / 6;
+}
+
 .img-responsive {
   width: 100%;
-  max-width: 60px;
+  max-width: 70px;
+  margin-bottom: 2em;
+  margin-right: 1em;
+}
+
+.project-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.project-images {
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  padding: 0.3em;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.project-image1, .project-image2, .project-image3 { 
+  width: 100%;
+  max-width: 400px;
+  margin: 1em 0 0 1em;
+  border-radius: 20px;
+  box-shadow: 0px 3px 11px 2px rgba(0,0,0,0.1);
+}
+
+.project1-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.image-desc {
+  display: flex;
+  height: auto;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.image-desc .upper {
+  justify-content: normal;
+}
+
+.project-link {
+  align-self: baseline;
+}
+
+.project-section {
+  margin-bottom: 1.2em;
+}
+
+.project-desc1, .project-desc2, .project-desc3 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.project1, .project2, .project3 {
+  margin-top: 0.5em;
+}
+
+
+
+.highlight {
+  color: var(--highlight-color);
+}
+
+@media screen and (max-width: 768px) {
+  .about-me {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .desc-image {
+    margin: 0;
+    width: 100%;
+    max-width: 200px;
+    min-width: 100px;
+  }
+
 }

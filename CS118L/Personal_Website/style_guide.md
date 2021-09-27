@@ -25,3 +25,18 @@ Project title font weight: 800
 Project description font size: 17px
 Project description line height: 25px
 
+development plan:
+
+1. Style the main structure of the website
+  a. fix the navbar
+  b. position the copy
+  c. fix the icons
+  d. position project images and their descriptions
+    d.1 try to use flex only if i can
+  e. fix the footer
+    e.1 add the line 
+
+2. add the main styles
+  a. add the highlights in my Logo
+    a.1 color the "me" in the navbar
+  b. think of a way to achieve the green bars or highlights
