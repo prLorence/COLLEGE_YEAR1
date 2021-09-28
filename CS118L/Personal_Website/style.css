@@ -22,17 +22,15 @@ html {
  
 }
 
-i {
-  font-size: 2em;
-  margin-right: .5em;
-  margin-bottom: 1em;
-}
+
 
 p, a  {
   font-family: 'Roboto', sans-serif;
 }
 
-
+p {
+  line-height: 30px;
+}
 
 h1, h2, h3 {
   font-family: Open Sans, sans-serif;
@@ -58,6 +56,7 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  
 }
 
 .header {
@@ -84,7 +83,7 @@ nav {
 
 .colored-container {
   background-color: var(--accent-color);
-  margin: 0 5em 0 5em;
+  margin: 0 5em 5em 5em;
   padding-bottom: 3em;
 }
 
@@ -102,6 +101,10 @@ nav {
 
 .about-me {
   display: flex;
+}
+
+.about-me-header {
+  line-height: 35px;
 }
 
 .description {
@@ -161,6 +164,11 @@ nav {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-bottom: 1em;
+}
+
+.upper {
+  margin-top: 1em;
 }
 
 .project-images {
@@ -170,7 +178,12 @@ nav {
   padding: 0.3em;
   display: flex;
   flex-direction: column;
+}
 
+.project-icon {
+  font-size: 2em;
+  margin-right: .5em;
+  margin-bottom: 1em;
 }
 
 .project-image1, .project-image2, .project-image3 { 
@@ -184,6 +197,7 @@ nav {
 .project1-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  margin-bottom: 1em;
 }
 
 .image-desc {
@@ -193,8 +207,32 @@ nav {
   justify-content: space-between;
 }
 
-.image-desc .upper {
-  justify-content: normal;
+footer {
+  position: relative;
+}
+
+.social-links {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  margin-left: 3em;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  clear: both;
+}
+
+.social-link {
+  margin-bottom: .5em;
+  font-size: 2em;
+}
+
+.line {
+  width: 100px;
+  height: 100px;
+  border-left: solid 2px black;
+  margin-left: .8em;
 }
 
 .project-link {
