@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\COLLEGE_YEAR1\\CS115\\Activity_2\\Activity_2.csproj": {}
+    "S:\\COLLEGE_YEAR1\\CS115\\Activity_4_range\\Activity_4_range.csproj": {}
   },
   "projects": {
-    "S:\\COLLEGE_YEAR1\\CS115\\Activity_2\\Activity_2.csproj": {
+    "S:\\COLLEGE_YEAR1\\CS115\\Activity_4_range\\Activity_4_range.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\COLLEGE_YEAR1\\CS115\\Activity_2\\Activity_2.csproj",
-        "projectName": "Activity_2",
-        "projectPath": "S:\\COLLEGE_YEAR1\\CS115\\Activity_2\\Activity_2.csproj",
+        "projectUniqueName": "S:\\COLLEGE_YEAR1\\CS115\\Activity_4_range\\Activity_4_range.csproj",
+        "projectName": "Activity_4_range",
+        "projectPath": "S:\\COLLEGE_YEAR1\\CS115\\Activity_4_range\\Activity_4_range.csproj",
         "packagesPath": "C:\\Users\\Paul & Cholo\\.nuget\\packages\\",
-        "outputPath": "S:\\COLLEGE_YEAR1\\CS115\\Activity_2\\obj\\",
+        "outputPath": "S:\\COLLEGE_YEAR1\\CS115\\Activity_4_range\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
