@@ -1,1 +1,0 @@
-# COLLEGE_YEAR1
