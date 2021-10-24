@@ -1,3 +1,3 @@
 # Personal Website 
 
-[link] - view it here.
+view it **[here](https://prlorence.github.io/COLLEGE_YEAR1/CS118L/Personal_Website/)**.
