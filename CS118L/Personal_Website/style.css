@@ -68,10 +68,10 @@ nav {
 }
 
 .navbar {
-  max-width: 500px;
+  max-width: 1000px;
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   place-items: center;
 }
 
@@ -150,10 +150,12 @@ nav {
 
 .github {
   grid-area: 1 / 6 / 1 / 5;
+
 }
 
 .git {
   grid-area : 1 / 7;
+  mix-blend-mode: multiply;
 }
 
 .html {
@@ -224,6 +226,33 @@ nav {
   justify-content: space-between;
 }
 
+/* Organizations */ 
+
+.organization-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.2em;
+}
+
+.organization-images {
+  mix-blend-mode: multiply;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  margin: 2em 0 0 0;
+  scale: 1.3;
+}
+
+.acomss {
+  grid-area: 1 / 4 / 1 / 3;
+}
+
+.stacktrek {
+  grid-area: 1 / 6 / 1 / 5;
+  scale: 1.5;
+}
+
 /* Contact form */
 textarea, input {
   width: calc(100% - 30px);
@@ -274,10 +303,6 @@ input[type="text"], input[type="email"], textarea {
   margin-top: 1em;
   border-radius: 3px;
 }
-
-
-
-
 
 /* Social links */
 
