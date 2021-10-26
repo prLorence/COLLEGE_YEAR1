@@ -241,7 +241,11 @@ nav {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   margin: 2em 0 0 0;
-  scale: 1.3;
+}
+
+.org-responsive {
+  width: 100%;
+  max-width: 100px;
 }
 
 .acomss {
