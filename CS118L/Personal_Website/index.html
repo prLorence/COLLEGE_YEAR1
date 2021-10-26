@@ -31,7 +31,7 @@
             <ul class="navbar">
               <li class="link"> <a href="#about"> about <span class="highlight">me</span> </a></li>
               <li class="link"> <a href="#projects"> my projects </a></li>
-              <li class="link"><a href="#"> resume </a> </li>
+              <li class="link"><a href="#"> contact </a> </li>
             </ul>
           </nav>
         </div>
@@ -43,8 +43,10 @@
         <div class="about-me">
           <div class="description">
             <h1 class="about-me-header"> Hi! I'm, Paul, an aspiring front-end web developer</h1>
-            <p> I am a freshman student at Adamson University studying B.S. Computer Science. I like reading books about
+            <p class="desc-content"> I am a freshman student at Adamson University studying B.S. Computer Science. I
+              like reading books about
               sales and design. I also love to work out, there's never been a day that I don't move my body around. </p>
+            <a href="Resume.pdf" download class="resume-btn">Resume</a>
           </div>
           <div class="desc-image">
             <img src="images/profile_image.png" alt="" class="profile-image">
@@ -135,13 +137,37 @@
                 <i class="fab fa-github project-icon" target="_blank"></i>
               </a>
             </div>
-          </div>p
+          </div>
         </div>
 
+        <div class="contact-form">
+          <div class="call-to-action">
+            <h1 class="contact-header"> Like what you see? </h1>
+            <p> Contact me so we can work together! </p>
+          </div>
+          <div class="form-container">
+            <form action="index.php" method="post">
+              <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" name="name" id="name" class="form-control" placeholder="Enter your name">
+              </div>
+              <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" class="form-control" placeholder="Enter your email">
+              </div>
+              <div class="form-group">
+                <label for="message">Message</label>
+                <textarea name="message" id="message" class="form-control" placeholder="Enter your message"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+          </div>
+        </div>
 
       </div>
     </div>
     </div>
+
 
     <footer>
 

@@ -10,6 +10,7 @@
 
 :root {
   --highlight-color: #5EBD91;
+  --highlight-color-darker: #56ac84;
   --text-color: #000000;
   --accent-color: #FBF6F6;
 }
@@ -111,6 +112,18 @@ nav {
   margin: 3em 1em 1em 4em;
 }
 
+.desc-content {
+  margin-bottom: 2.5em;
+}
+
+.resume-btn {
+  font-weight: 500;
+  margin: 1.5em 0;
+  padding: 0.5em 1.5em 0.5em 1.5em;
+  color: var(--highlight-color);
+  border: 2px solid var(--highlight-color-darker);
+}
+
 .tool-header {
   margin-bottom: 3em;
 }
@@ -190,7 +203,6 @@ nav {
   width: 100%;
   max-width: 400px;
   margin: 1em 0 0 1em;
-  border-radius: 20px;
   box-shadow: 0px 3px 11px 2px rgba(0,0,0,0.1);
 }
 
