@@ -1,0 +1,14 @@
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\bin\Debug\netcoreapp3.1\Activity_6(While).exe
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\bin\Debug\netcoreapp3.1\Activity_6(While).deps.json
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\bin\Debug\netcoreapp3.1\Activity_6(While).runtimeconfig.json
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\bin\Debug\netcoreapp3.1\Activity_6(While).runtimeconfig.dev.json
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\bin\Debug\netcoreapp3.1\Activity_6(While).dll
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\bin\Debug\netcoreapp3.1\Activity_6(While).pdb
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\obj\Debug\netcoreapp3.1\Activity_6(While).csproj.AssemblyReference.cache
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\obj\Debug\netcoreapp3.1\Activity_6(While).GeneratedMSBuildEditorConfig.editorconfig
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\obj\Debug\netcoreapp3.1\Activity_6(While).AssemblyInfoInputs.cache
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\obj\Debug\netcoreapp3.1\Activity_6(While).AssemblyInfo.cs
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\obj\Debug\netcoreapp3.1\Activity_6(While).csproj.CoreCompileInputs.cache
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\obj\Debug\netcoreapp3.1\Activity_6(While).dll
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\obj\Debug\netcoreapp3.1\Activity_6(While).pdb
+S:\COLLEGE_YEAR1\CS115\Activity_6(While)\obj\Debug\netcoreapp3.1\Activity_6(While).genruntimeconfig.cache

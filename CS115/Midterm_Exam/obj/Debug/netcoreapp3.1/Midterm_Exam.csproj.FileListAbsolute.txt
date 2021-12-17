@@ -1,0 +1,14 @@
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\bin\Debug\netcoreapp3.1\Midterm_Exam.exe
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\bin\Debug\netcoreapp3.1\Midterm_Exam.deps.json
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\bin\Debug\netcoreapp3.1\Midterm_Exam.runtimeconfig.json
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\bin\Debug\netcoreapp3.1\Midterm_Exam.runtimeconfig.dev.json
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\bin\Debug\netcoreapp3.1\Midterm_Exam.dll
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\bin\Debug\netcoreapp3.1\Midterm_Exam.pdb
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\obj\Debug\netcoreapp3.1\Midterm_Exam.csproj.AssemblyReference.cache
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\obj\Debug\netcoreapp3.1\Midterm_Exam.GeneratedMSBuildEditorConfig.editorconfig
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\obj\Debug\netcoreapp3.1\Midterm_Exam.AssemblyInfoInputs.cache
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\obj\Debug\netcoreapp3.1\Midterm_Exam.AssemblyInfo.cs
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\obj\Debug\netcoreapp3.1\Midterm_Exam.csproj.CoreCompileInputs.cache
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\obj\Debug\netcoreapp3.1\Midterm_Exam.dll
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\obj\Debug\netcoreapp3.1\Midterm_Exam.pdb
+S:\COLLEGE_YEAR1\CS115\Midterm_Exam\obj\Debug\netcoreapp3.1\Midterm_Exam.genruntimeconfig.cache

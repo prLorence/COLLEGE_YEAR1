@@ -1,0 +1,14 @@
+S:\COLLEGE_YEAR1\CS115\Activity_7\bin\Debug\netcoreapp3.1\Activity_7.exe
+S:\COLLEGE_YEAR1\CS115\Activity_7\bin\Debug\netcoreapp3.1\Activity_7.deps.json
+S:\COLLEGE_YEAR1\CS115\Activity_7\bin\Debug\netcoreapp3.1\Activity_7.runtimeconfig.json
+S:\COLLEGE_YEAR1\CS115\Activity_7\bin\Debug\netcoreapp3.1\Activity_7.runtimeconfig.dev.json
+S:\COLLEGE_YEAR1\CS115\Activity_7\bin\Debug\netcoreapp3.1\Activity_7.dll
+S:\COLLEGE_YEAR1\CS115\Activity_7\bin\Debug\netcoreapp3.1\Activity_7.pdb
+S:\COLLEGE_YEAR1\CS115\Activity_7\obj\Debug\netcoreapp3.1\Activity_7.csproj.AssemblyReference.cache
+S:\COLLEGE_YEAR1\CS115\Activity_7\obj\Debug\netcoreapp3.1\Activity_7.GeneratedMSBuildEditorConfig.editorconfig
+S:\COLLEGE_YEAR1\CS115\Activity_7\obj\Debug\netcoreapp3.1\Activity_7.AssemblyInfoInputs.cache
+S:\COLLEGE_YEAR1\CS115\Activity_7\obj\Debug\netcoreapp3.1\Activity_7.AssemblyInfo.cs
+S:\COLLEGE_YEAR1\CS115\Activity_7\obj\Debug\netcoreapp3.1\Activity_7.csproj.CoreCompileInputs.cache
+S:\COLLEGE_YEAR1\CS115\Activity_7\obj\Debug\netcoreapp3.1\Activity_7.dll
+S:\COLLEGE_YEAR1\CS115\Activity_7\obj\Debug\netcoreapp3.1\Activity_7.pdb
+S:\COLLEGE_YEAR1\CS115\Activity_7\obj\Debug\netcoreapp3.1\Activity_7.genruntimeconfig.cache

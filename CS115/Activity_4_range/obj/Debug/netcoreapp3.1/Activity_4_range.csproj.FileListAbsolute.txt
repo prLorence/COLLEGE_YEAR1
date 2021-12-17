@@ -1,0 +1,14 @@
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\bin\Debug\netcoreapp3.1\Activity_4_range.exe
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\bin\Debug\netcoreapp3.1\Activity_4_range.deps.json
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\bin\Debug\netcoreapp3.1\Activity_4_range.runtimeconfig.json
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\bin\Debug\netcoreapp3.1\Activity_4_range.runtimeconfig.dev.json
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\bin\Debug\netcoreapp3.1\Activity_4_range.dll
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\bin\Debug\netcoreapp3.1\Activity_4_range.pdb
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\obj\Debug\netcoreapp3.1\Activity_4_range.csproj.AssemblyReference.cache
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\obj\Debug\netcoreapp3.1\Activity_4_range.GeneratedMSBuildEditorConfig.editorconfig
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\obj\Debug\netcoreapp3.1\Activity_4_range.AssemblyInfoInputs.cache
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\obj\Debug\netcoreapp3.1\Activity_4_range.AssemblyInfo.cs
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\obj\Debug\netcoreapp3.1\Activity_4_range.csproj.CoreCompileInputs.cache
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\obj\Debug\netcoreapp3.1\Activity_4_range.dll
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\obj\Debug\netcoreapp3.1\Activity_4_range.pdb
+S:\COLLEGE_YEAR1\CS115\Activity_4_range\obj\Debug\netcoreapp3.1\Activity_4_range.genruntimeconfig.cache
